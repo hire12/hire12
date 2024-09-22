@@ -2,7 +2,7 @@
 <h2 align="center"> 🚀 Full Stack Developer | Learning AI 🌟 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=630&lines=Welcome+to+My+Profile!+🌟;Full+Stack+Developer+%7C+AI+Enthusiast+👨‍💻;Building+Innovative+Web+Applications+💻;Let's+build+something+great+together+✨" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=680&lines=Welcome+to+My+Profile!+🌟;Full+Stack+Developer+%7C+AI+Enthusiast+👨‍💻;Building+Innovative+Web+Applications+💻;Let's+build+something+great+together+✨" alt="Typing SVG">
 
 </p>
 
