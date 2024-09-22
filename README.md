@@ -24,8 +24,8 @@
 ---
 
 ### 🙋‍♂️ About Me:
-- 🔭 I’m currently working on **SecureTrade Ethiopia**
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working on **My Start Up Project**
+- 🌱 I’m currently learning **AI**
 - 👯 I’m looking to collaborate on **Full Stack Development Projects**
 - 🤝 I’m looking for a client as a **Developer**
 - ⚡ Fun fact: I love solving complex problems and enjoy exploring new technologies!
@@ -44,7 +44,7 @@
 ---
 
 ### 📫 How to reach me:
-- Email: **hire12@gmail.com**
+- Email: **hireemoh@gmail.com**
 - LinkedIn: [Hiriyan's LinkedIn](https://www.linkedin.com/in/hiriyan/)
 - GitHub: [Hiriyan's GitHub](https://github.com/hire12)
 
