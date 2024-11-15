@@ -42,8 +42,9 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hire12&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
-  <img src="https://streak-stats.demolab.com/?user=hire12&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com/?user=hire12&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
   
+<img src="https://streak-stats.demolab.com/?user=hire12&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 
 </div>
