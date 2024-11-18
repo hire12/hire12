@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Hiriyan</h1>
-<h2 align="center"> 🚀 Full Stack Developer | Learning AI 🌟 </h2>
+<h2 align="center"> 🚀 Full Stack Developer | Backend & Frontend Enthusiast 🌟</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=680&lines=Welcome+to+My+Profile!+🌟;Full+Stack+Developer+%7C+AI+Enthusiast+👨‍💻;Building+Innovative+Web+Applications+💻;Let's+build+something+great+together+✨" alt="Typing SVG">
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=680&lines=Welcome+to+My+Profile!+🌟;Full+Stack+Developer+%7C+Backend+%26+Frontend+Enthusiast+👨‍💻;Building+Scalable+Web+Applications+💻;Let's+build+something+great+together+✨" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -19,11 +18,11 @@
 ---
 
 ### 🛠️ About Me:
-- 🔭 I’m currently working on **my startup project**
-- 🌱 I’m learning **AI and Full Stack Development**
-- 👯 Looking to collaborate on **AI and Web Development Projects**
-- 🤝 Looking for clients as a **Developer**
-- ⚡ Fun fact: I love solving complex problems and building innovative solutions!
+- 🔭 Currently working on **my startup project** and enhancing my skills in **Full Stack Development**.
+- 🌱 Open to **full-time, frontend, backend, and full-stack development roles**.
+- 👯 Passionate about **building scalable web applications** and solving complex problems.
+- 🤝 Seeking **collaborative opportunities** to contribute to innovative web projects.
+- ⚡ Fun fact: I enjoy building solutions that make a real impact!
 
 ---
 
@@ -41,12 +40,7 @@
 </div>
 
 <div align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hire12&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
-<!--   <img src="https://streak-stats.demolab.com/?user=hire12&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
-  
-<img src="https://streak-stats.demolab.com/?user=hire12&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-
+  <img src="https://streak-stats.demolab.com/?user=hire12&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
