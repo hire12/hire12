@@ -18,7 +18,7 @@
 ---
 
 ### 🛠️ About Me:
-- 🔭 Currently working on **my startup project** and enhancing my skills in **Full Stack Development**.
+
 - 🌱 Open to **full-time, frontend, backend, and full-stack development roles**.
 - 👯 Passionate about **building scalable web applications** and solving complex problems.
 - 🤝 Seeking **collaborative opportunities** to contribute to innovative web projects.
