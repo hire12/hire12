@@ -19,7 +19,7 @@
 
 ### 🛠️ About Me:
 
-- 🌱 Open to **full-time, frontend, backend, and full-stack development roles**.
+- 🌱 Open to **full-time, backend, frontend, and full-stack development roles**.
 - 👯 Passionate about **building scalable web applications** and solving complex problems.
 - 🤝 Seeking **collaborative opportunities** to contribute to innovative web projects.
 - ⚡ Fun fact: I enjoy building solutions that make a real impact!
