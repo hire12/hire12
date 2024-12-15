@@ -33,6 +33,13 @@
 
 ---
 
+<h3 align="center">📂 Languages Used in My Projects</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hire12&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ### 🔥 GitHub Profile Stats:
 
 <div align="center">
@@ -73,4 +80,3 @@
 </p>
 
 <h3 align="center">👨‍💻 Let's build something great together! 💡</h3>
-
