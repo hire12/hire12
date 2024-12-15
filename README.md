@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hiriyan</h1>
-<h2 align="center">🚀 Full Stack Developer | Backend & Frontend Enthusiast 🌟</h2>
+<h2 align="center"> 🚀 Full Stack Developer | Backend & Frontend Enthusiast 🌟</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=680&lines=Welcome+to+My+Profile!+🌟;Full+Stack+Developer+%7C+Backend+%26+Frontend+Enthusiast+👨‍💻;Building+Scalable+Web+Applications+💻;Let's+build+something+great+together+✨" alt="Typing SVG">
@@ -19,29 +19,23 @@
 
 <h2 align="center">🔗 Quick Links</h2>
 <p align="center">
-  <a href="#about-me">🛠️ About Me</a> |
-  <a href="#skills">⚙️ Skills</a> |
-  <a href="#languages-used">📂 Languages</a> |
-  <a href="#github-stats">🔥 GitHub Stats</a> |
-  <a href="#featured-projects">🎥 Projects</a> |
-  <a href="#achievements">🌟 Achievements</a> |
-  <a href="#connect-with-me">📬 Connect</a> |
-  <a href="#fun-zone">🎉 Fun Zone</a> |
-  <a href="#learning">📚 Learning Now</a> |
-  <a href="#tools">🛠️ Tools I Use</a>
+  <a href="#about-me">🛠️ About Me</a> | 
+  <a href="#skills">⚙️ Skills</a> | 
+  <a href="#languages-used">📂 Languages</a> | 
+  <a href="#github-stats">🔥 GitHub Stats</a> | 
+  <a href="#featured-projects">🎥 Projects</a> | 
+  <a href="#connect-with-me">📬 Connect</a>
 </p>
 
 ---
 
 <h2 id="about-me" align="center">🛠️ About Me</h2>
-<ul>
-  <li>🌱 Open to <b>full-time, backend, frontend, and full-stack development roles</b>.</li>
-  <li>👯 Passionate about <b>building scalable web applications</b> and solving complex problems.</li>
-  <li>🤝 Seeking <b>collaborative opportunities</b> to contribute to innovative web projects.</li>
-  <li>💬 Ask me about: <b>React, Node.js, Express, Prisma, and MySQL</b>.</li>
-  <li>🌍 Based in Ethiopia, working remotely worldwide.</li>
-  <li>📖 Fun Fact: I enjoy turning ideas into reality with code!</li>
-</ul>
+
+- 🌱 Open to **full-time, backend, frontend, and full-stack development roles**.
+- 👯 Passionate about **building scalable web applications** and solving complex problems.
+- 🤝 Seeking **collaborative opportunities** to contribute to innovative web projects.
+- ⚡ Fun fact: I enjoy building solutions that make a real impact!
+- 🌍 Based in Ethiopia, working remotely worldwide.
 
 ---
 
@@ -73,41 +67,27 @@
 ---
 
 <h2 id="featured-projects" align="center">🎥 Featured Projects</h2>
-<ul>
-  <li>
-    <h3><a href="https://your-project-link.com">🚀 Project Name</a></h3>
-    <p><b>Description:</b> A brief description of the project, highlighting its features and purpose.</p>
-    <p><b>Tech Stack:</b> Next.js, Tailwind, Prisma</p>
-    <a href="https://your-project-link.com" target="_blank">🔗 Live Demo</a> | 
-    <a href="https://github.com/your-project-repo" target="_blank">📂 Code Repository</a>
-  </li>
-</ul>
+<p align="center">
+  <a href="https://your-project-link.com">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Project Video" width="500"/>
+  </a>
+</p>
+<p align="center">
+  <b>Project Name:</b> Your Project Name Here <br />
+  <b>Description:</b> A brief description of what your project does and its purpose. <br />
+  <a href="https://your-project-link.com" target="_blank">🔗 Live Demo</a> | 
+  <a href="https://github.com/your-project-repo" target="_blank">📂 Code Repository</a>
+</p>
 
 ---
 
-<h2 id="achievements" align="center">🌟 Achievements</h2>
-<ul>
+<h2 align="center">🌟 Achievements & Highlights</h2>
+<ul align="center" style="list-style: none;">
   <li>✅ Successfully delivered <b>X+</b> projects to clients worldwide.</li>
   <li>🌍 Contributed to open-source projects and actively engaged in the developer community.</li>
   <li>📈 Built scalable, high-performing applications for startups and enterprises.</li>
   <li>🏆 Continuously improving and learning new technologies to stay ahead in the industry.</li>
 </ul>
-
----
-
-<h2 id="learning" align="center">📚 Currently Learning</h2>
-<ul>
-  <li>🖥️ Improving expertise in <b>Tailwind CSS</b>.</li>
-  <li>🔍 Exploring <b>Next.js with TypeScript</b> for advanced full-stack development.</li>
-  <li>🤖 Learning the basics of <b>AI and Machine Learning</b>.</li>
-</ul>
-
----
-
-<h2 id="tools" align="center">🛠️ Tools I Use</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,githubactions,vercel,docker,linux" alt="Tools"/>
-</p>
 
 ---
 
@@ -126,10 +106,11 @@
 
 ---
 
-<h2 id="fun-zone" align="center">🎉 Fun Zone</h2>
+<h2 align="center">🎉 Fun Zone</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="AI Animation" width="500"/>
 </p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </p>
