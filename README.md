@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=680&lines=Welcome+to+My+Profile!+🌟;Full+Stack+Developer+%7C+Backend+%26+Frontend+Enthusiast+👨‍💻;Building+Scalable+Web+Applications+💻;Let's+build+something+great+together+✨" alt="Typing SVG">
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hire12&label=Profile%20views&color=0e75b6&style=flat" alt="hire12" />
 </p>
