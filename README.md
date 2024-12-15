@@ -46,10 +46,10 @@
 
 ---
 
-<h2 id="languages-used" align="center">📂 Languages Used in My Projects</h2>
-<p align="center">
+<!-- <h2 id="languages-used" align="center">📂 Languages Used in My Projects</h2>
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hire12&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
@@ -65,7 +65,7 @@
 </div>
 
 ---
-
+<!--
 <h2 id="featured-projects" align="center">🎥 Featured Projects</h2>
 <p align="center">
   <a href="https://your-project-link.com">
@@ -79,6 +79,7 @@
   <a href="https://github.com/your-project-repo" target="_blank">📂 Code Repository</a>
 </p>
 
+-->
 ---
 
 <h2 align="center">🌟 Achievements & Highlights</h2>
