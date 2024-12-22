@@ -48,10 +48,10 @@
 
 ---
 
-<!-- <h2 id="languages-used" align="center">📂 Languages Used in My Projects</h2>
+ <h2 id="languages-used" align="center">📂 Languages Used in My Projects</h2>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hire12&layout=compact&theme=radical" alt="Top Languages" />
-</p> -->
+</p> 
 
 ---
 
