@@ -114,10 +114,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="AI Animation" width="500"/>
 </p>
-
+<!--
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </p>
-
+-->
 <h3 align="center">👨‍💻 Let's build something great together! 💡</h3>
 
