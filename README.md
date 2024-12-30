@@ -40,11 +40,11 @@
 - 🌍 Based in Ethiopia, working remotely worldwide.
 
 ---
-
+<!--
 <h2 id="skills" align="center">⚙️ Skills & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,mysql,tailwind,express,html,css,git,github&theme=dark" alt="Skills"/>
-</p>
+</p> -->
 
 ---
 
