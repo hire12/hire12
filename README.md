@@ -40,18 +40,19 @@
 - 🌍 Based in Ethiopia, working remotely worldwide.
 
 ---
-<!--
+
 <h2 id="skills" align="center">⚙️ Skills & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,mysql,tailwind,express,html,css,git,github&theme=dark" alt="Skills"/>
-</p> -->
+</p> 
 
 ---
-
+<!--
  <h2 id="languages-used" align="center">📂 Languages Used in My Projects</h2>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hire12&layout=compact&theme=radical" alt="Top Languages" />
 </p> 
+-->
 
 ---
 
