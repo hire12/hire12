@@ -68,7 +68,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hire12&theme=radical" alt="Contribution Stats" />
 </div>
 -->
----
+
 <!--
 <h2 id="featured-projects" align="center">🎥 Featured Projects</h2>
 <p align="center">
