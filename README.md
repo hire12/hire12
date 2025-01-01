@@ -63,10 +63,11 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hire12&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+<!--
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hire12&theme=radical" alt="Contribution Stats" />
 </div>
-
+-->
 ---
 <!--
 <h2 id="featured-projects" align="center">🎥 Featured Projects</h2>
