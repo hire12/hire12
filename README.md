@@ -9,14 +9,13 @@
 <br/>
 
 ```text
-╭─ hire12@ethiopia ~ ──────────────────────────────────────────────╮
+╭─ hire12@terminal ~ ──────────────────────────────────────────────╮
 │  >_ sys.info                                                     │
 │                                                                  │
 │      /\_/\        USER      : Hiriyan Mohammed (Hiri)            │
 │     ( >.< )       ROLE      : Full-Stack Developer               │
-│      /   \        LOCATION  : Ethiopia 🇪🇹                         │
-│     (__|__)       STACK     : TypeScript · Next.js · Node.js     │
-│                   RECORD    : 5,600+ Contributions (2025–2026)   │
+│      /   \        STACK     : TypeScript · Next.js · Node.js     │
+│     (__|__)       RECORD    : 5,600+ Contributions (2025–2026)   │
 │                   STATUS    : Active · Shipping Daily            │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
