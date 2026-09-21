@@ -1,49 +1,68 @@
-```text
-hire12@github:~$ whoami
+<div align="center">
 
-Hiriyan Mohammed (Hiri)
-software engineer · ethiopia
+# ⚡ Hiriyan Mohammed
+
+<a href="https://github.com/hire12">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Assalamu+Alaikum%2C+I'm+Hiriyan+Mohammed;Full-Stack+Web+%26+Systems+Developer;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;5%2C600%2B+Contributions+Logged+%C2%B7+Always+Shipping" alt="Typing SVG" />
+</a>
+
+<br/>
+
+```text
+╭─ hire12@ethiopia ~ ──────────────────────────────────────────────╮
+│  >_ sys.info                                                     │
+│                                                                  │
+│      /\_/\        USER      : Hiriyan Mohammed (Hiri)            │
+│     ( >.< )       ROLE      : Full-Stack Developer               │
+│      /   \        LOCATION  : Ethiopia 🇪🇹                         │
+│     (__|__)       STACK     : TypeScript · Next.js · Node.js     │
+│                   RECORD    : 5,600+ Contributions (2025–2026)   │
+│                   STATUS    : Active · Shipping Daily            │
+╰──────────────────────────────────────────────────────────────────╯
 ```
 
-I like figuring out why things work.
-
-Most of my time goes into taking systems apart, fixing what's broken, and building them back up properly.
+</div>
 
 ---
 
-### focus
+### 🛠️ Tech Arsenal
 
-* Full-stack web applications and backend systems
-* TypeScript across the entire stack
-* Designing clean APIs, working with databases, and event-driven services
-* Keeping things simple and fast instead of adding unnecessary layers
-
----
-
-### engineering log
-
-* **Cadence** — 5,600+ contributions logged over the past year
-* **Work** — Continuous commits and pull requests across web applications, utilities, and backend services
-* **Badges** — Pull Shark (x3) · Pair Extraordinaire · Quickdraw · YOLO
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,redux,docker,git,linux,bash&theme=dark&perline=7" alt="Tech Stack" />
+</div>
 
 ---
 
-### toolbox
+### 📈 Activity & Streak Log
 
-A small inventory of what I actually reach for:
-
-* **Languages** — TypeScript, JavaScript, SQL, Bash
-* **Frameworks & Runtimes** — Node.js, React, Next.js, Express, Tailwind CSS
-* **Data & Infrastructure** — PostgreSQL, MongoDB, Redis, Git, Linux, Docker
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hire12&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
 
 ---
 
-### connect
+### 🌐 Connect & Uplink
 
-* **Telegram** — [@hireemoh](https://t.me/hireemoh)
-* **X (Twitter)** — [@HireeMoh](https://x.com/HireeMoh)
-* **LinkedIn** — [hiriyan-mohammed](https://linkedin.com/in/hiriyan-mohammed)
+<div align="center">
+  <a href="https://t.me/hireemoh">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/HireeMoh">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/hiriyan-mohammed">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:hireemoh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
+<br/>
 
-<sub>hiriyan mohammed / hire12</sub>
+<div align="center">
+  <sub>⚡ hiriyan mohammed // hire12</sub>
+</div>
